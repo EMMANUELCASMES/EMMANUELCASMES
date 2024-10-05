@@ -1,12 +1,13 @@
-# 👋 ¡Hola! Soy Emmanuel Catillo  
+![Cabecera de mi perfil](https://github.com/EMMANUELCASMES/Emmanuel-/blob/main/banergit.png?raw=true)
 
-¡Bienvenido a mi perfil de GitHub! 🎉 Soy estudiante de **Ciberseguridad**, estoy apasionado por proteger la información y entender las amenazas digitales.
+
+¡Bienvenido a mi perfil de GitHub! 🎉 Soy estudiante de **Ingenieria en Ciberseguridad**, estoy apasionado por proteger la información y entender las amenazas digitales.
 
 ---
 
 ## 🚀 Sobre Mí
 
-Como estudiante de ciberseguridad, estoy enfocado en aprender sobre la protección de sistemas y redes. Me encanta resolver problemas complejos y aprender nuevas habilidades que me preparen para el mundo real.
+Como estudiante de ingenieria en ciberseguridad, estoy enfocado en aprender sobre la protección de sistemas y redes. Me encanta resolver problemas complejos y aprender nuevas habilidades que me preparen para el mundo real.
 
 - **Aficiones:** Jugar videojuegos 🎮, hackathons 🏆, y aprender sobre nuevas tecnologías 💻.
 - **Mis superpoderes:** Análisis de riesgos y pensamiento crítico.
@@ -30,9 +31,5 @@ Como estudiante de ciberseguridad, estoy enfocado en aprender sobre la protecci�
 
 ---
 
-## 📫 Conéctate Conmigo
-- [Gmail](mailto:driftin131@gmail.com)
-
----
 
 🔒 Gracias por visitar mi perfil. ¡Listo para construir un futuro más seguro juntos! 🌐
